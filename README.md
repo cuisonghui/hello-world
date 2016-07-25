@@ -1,2 +1,2 @@
 # hello-world
-this is my first git project branche.
+this is my first git project branches.
